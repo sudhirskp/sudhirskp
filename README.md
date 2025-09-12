@@ -1,4 +1,6 @@
 # Hi, I'm Sudhir 👋  
+![Header](https://github.com/sudhirskp/sudhirskp/blob/main/banner.png)
+
 
 🚀 **Aspiring Software Engineer | Java & Spring Boot | React | Problem Solver**  
 
