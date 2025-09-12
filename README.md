@@ -111,7 +111,7 @@
 
 ---
 ## Blog
-- **Hashnode Blog:** [Sudhir Patel - Blog](https://hashnode.com/@Sudhir101)
+- **Hashnode Blog:** [Sudhir Patel - Blog](https://hashnode.com/@sudhircyber)
 
 ---
 ## 📬 Connect with Me
