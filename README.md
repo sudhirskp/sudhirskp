@@ -122,7 +122,7 @@
   <a href="https://leetcode.com/Sudhir101">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&color=8B5CF6" alt="LeetCode" />
   </a>
-  <a href="https://sudhirskp.github.io/">
+  <a href="https://portfolio-website-bqj5.onrender.com">
     <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=githubpages&logoColor=white&color=3B82F6" alt="Portfolio" />
   </a>
   <a href="mailto:sudhirjigta@gmail.com">
