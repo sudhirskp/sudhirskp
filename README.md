@@ -91,7 +91,8 @@
 
 ### 🔹 [Task Manager App](https://github.com/sudhirskp/taskManager_frontend)
 **Full-stack task management system using React + Vite + Tailwind CSS + Spring Boot** [Live Here.](https://managertaskk.netlify.app/login) <br>
-Features: User authentication, task workflow (Todo/In Progress/Done), real-time updates, responsive design
+<img src="https://github.com/sudhirskp/taskManager_frontend/blob/main/public/login.png" alt="Task Manager Login Screenshot" width="100" height="100" />
+<img src="https://github.com/sudhirskp/taskManager_frontend/blob/main/public/dashboard.png" alt="Task Manager Dashboard Screenshot" width="100" height="100" />
 
 ### 🔹 [Anonymous Chat App](https://github.com/sudhirskp/chatApp)
 **Real-time chat using Java + React + WebSockets** [Live Here.](https://courageous-cheesecake-916884.netlify.app/) <br>
