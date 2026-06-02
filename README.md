@@ -100,10 +100,10 @@
 <img src="https://github.com/sudhirskp/chatApp/blob/master/room_join.png" alt="Anonymous Chat App Screenshot" width="100" height="100" />
 <img src="https://github.com/sudhirskp/chatApp/blob/master/chatApp_database.png" alt="Anonymous Chat App Screenshot" width="100" height="100" />
 
-### 🔹 [Employee Management System](https://github.com/sudhirskp/springboot-crud-app)
-**CRUD operations with Spring Boot + MySQL** <br>
-<img src="https://github.com/sudhirskp/springboot-crud-app/blob/main/add-employee" alt="emplyee-mng" width="100" height="100" />
-<img src="https://github.com/sudhirskp/springboot-crud-app/blob/main/employee-dir" alt="emplyee-mng" width="100" height="100" />
+### 🔹 [Stock Data Intelligence Dashboard](https://github.com/sudhirskp/stock_DashBoard)
+**Financial data platform using Python + FastAPI + Pandas + Plotly** [Live Here.](https://stock-dashboard-ld6o.onrender.com/) <br>
+<img src="https://github.com/sudhirskp/stock_DashBoard/blob/main/screenshot/dashboard-chart.png" alt="Stock Dashboard Chart" width="100" height="100" />
+<img src="https://github.com/sudhirskp/stock_DashBoard/blob/main/screenshot/swagger-overview.png" alt="Swagger API Documentation" width="100" height="100" />
 
 
 ---
