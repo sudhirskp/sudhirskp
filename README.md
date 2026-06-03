@@ -4,7 +4,7 @@
 
 # 👋 Hi, I'm Sudhir Patel
 **💻 Aspiring Software Engineer | Java & Spring Boot | React | DSA** <br>
-🔹 Building scalable web apps and solving 250+ LeetCode problems <br>
+🔹 Building scalable web apps and solving 400+ LeetCode problems <br>
 🏆 **Rank 3263 in TCS CodeVita**
 
 ---
